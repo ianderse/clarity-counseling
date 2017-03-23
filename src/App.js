@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Isvg from 'react-inlinesvg';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import {
@@ -30,6 +31,7 @@ class App extends Component {
       <MuiThemeProvider muiTheme={muiTheme}>
         <div className="App">
           <NavBar title="Clarity Counseling Center" />
+          <Isvg src={require('../assets/images/CCCLogoTopRight.svg')} />
           <img className="main-image" src={require('../assets/images/skyandsea.jpg')} />
           {this.props.children}
         </div>
