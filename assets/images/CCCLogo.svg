@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="450px" height="450px" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-287.000000, -158.000000)">
+            <g id="Group" transform="translate(303.000000, 165.000000)">
+                <path d="M209,427 C324.427513,427 418,333.427513 418,218 C418,102.572487 324.427513,9 209,9 C148.228925,9 93.5158117,34.9372144 55.3268257,76.3454765 C20.980322,113.587341 2.84217094e-14,163.343562 2.84217094e-14,218" id="Oval" stroke="#000000" stroke-width="31" transform="translate(209.000000, 218.000000) rotate(180.000000) translate(-209.000000, -218.000000) "></path>
+                <text id="Clarity-Counseling-C" font-family="AbadiMT-CondensedExtraBold, Abadi MT Condensed Extra Bold" font-size="32" font-style="condensed" font-weight="bold" fill="#000000">
+                    <tspan x="54.1796875" y="322">Clarity Counseling Center</tspan>
+                </text>
+                <text id="L" font-family="AbadiMT-CondensedExtraBold, Abadi MT Condensed Extra Bold" font-size="288" font-style="condensed" font-weight="bold" fill="#000000">
+                    <tspan x="209.023438" y="287">L</tspan>
+                </text>
+                <text id="C" font-family="AbadiMT-CondensedExtraBold, Abadi MT Condensed Extra Bold" font-size="288" font-style="condensed" font-weight="bold" fill="#000000">
+                    <tspan x="86.4765625" y="251">C</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

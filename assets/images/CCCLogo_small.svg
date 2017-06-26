@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="52px" height="50px" viewBox="0 0 52 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-486.000000, 0.000000)">
+            <g id="Group" transform="translate(487.000000, 0.000000)">
+                <text id="Clarity" font-family="AbadiMT-CondensedExtraBold, Abadi MT Condensed Extra Bold" font-size="18" font-style="condensed" font-weight="bold" fill="#000000">
+                    <tspan x="3.28564453" y="29">Clarity</tspan>
+                </text>
+                <path d="M25,48.9461358 C38.8071187,48.9461358 50,37.9891701 50,24.4730679 C50,10.9569657 38.8071187,0 25,0 C17.7307327,0 11.1861019,3.03714454 6.61804136,7.88588718 C2.5096079,12.2467612 3.55271368e-15,18.0730166 3.55271368e-15,24.4730679" id="Oval" stroke="#000000" stroke-width="2" transform="translate(25.000000, 24.473068) rotate(180.000000) translate(-25.000000, -24.473068) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
